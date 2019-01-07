@@ -1,0 +1,53 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, '8.0'
+
+target 'CMIOTBase’ do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  # Pods for CMIOTBaseSwift
+  pod 'IQKeyboardManagerSwift'
+  pod 'DZNEmptyDataSet'
+  pod 'SwiftyUserDefaults'
+  pod 'DeviceKit'
+  pod 'EAIntroView'
+  pod 'SVProgressHUD'
+  pod 'EFQRCode'
+  pod 'PermissionScope'
+  pod 'ESTabBarController-swift'
+  pod 'MJRefresh'
+  pod 'SwiftyJSON'
+  pod 'Bugly'
+  pod 'netfox'
+  pod 'XCGLogger'
+  pod 'AAInfographics'
+  pod 'Kingfisher'                    # 图片处理
+  pod 'KMPlaceholderTextView'         # 带占位文字的多行编辑框
+  pod 'Moya', '10.0.1'                # 网络请求
+  pod 'HandyJSON'                     # 模型转换
+  pod 'MBProgressHUD'                 # 提示
+  pod 'SnapKit', '~> 4.0.0'
+  pod 'PPBadgeViewSwift'
+  pod 'PPNumberButton'
+  pod 'SkyFloatingLabelTextField'
+  pod 'MediaPickerController'
+  pod 'SwiftyAttributes'
+  pod 'BMKLocationKit'
+  pod 'CryptoSwift'                  #, :git => "https://github.com/krzyzanowskim/CryptoSwift", :branch => "master" #for newest version=
+  pod 'FSCalendar'
+  pod 'Bugly'
+  pod 'UMCCommon'
+  pod 'UMCSecurityPlugins'
+  pod 'UMCShare/UI'
+  pod 'UMCShare/Social/ReducedWeChat'
+  target 'CMIOTBaseTests' do
+    inherit! :search_paths
+  end
+
+
+  target 'CMIOTBaseUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+

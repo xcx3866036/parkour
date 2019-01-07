@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SaleDetailViewController.addCar(_:):SaleDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.productNum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CarTableViewCell.addBt(_:):CarTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "num">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AddAddressViewController.saveAction(_:) [inlined]:AddAddressViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AddAddressViewController.saveAction(_:):AddAddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentCustomer?.customerName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommodityViewController.collectionView(_:cellForItemAt:):CommodityViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataSource">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FindPasswordViewController.findPassword():FindPasswordViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "IssueViewController.tableView(_:cellForRowAt:):IssueViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.carArr">
+            </PersistentString>
+            <PersistentString
+               value = "selectedRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PAPI.task.getter:PAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserModel.read()?.id">
+            </PersistentString>
+            <PersistentString
+               value = "UserModel.read()">
+            </PersistentString>
+            <PersistentString
+               value = "parmeters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "KLCityPickerView.kl_getData():KLCityPickerView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "array">
+            </PersistentString>
+            <PersistentString
+               value = "number">
+            </PersistentString>
+            <PersistentString
+               value = "subJson[0][&quot;children&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "subJson">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SaleMainViewController.loadData():SaleMainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.dataArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SaleMainViewController.setup():SaleMainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rightData">
+            </PersistentString>
+            <PersistentString
+               value = "childTitles">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CommodityViewController.viewDidLoad():CommodityViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataSource">
+            </PersistentString>
+            <PersistentString
+               value = "self.mainCollection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.loginWitnAccount(account:pwd:code:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PAPI.headers.getter:PAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Defaults">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

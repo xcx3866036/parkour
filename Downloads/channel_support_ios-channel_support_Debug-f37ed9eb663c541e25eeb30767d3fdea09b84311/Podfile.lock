@@ -1,0 +1,174 @@
+PODS:
+  - AAInfographics (2.0.4)
+  - Alamofire (4.8.0)
+  - BMKLocationKit (1.4.0)
+  - Bugly (2.5.0)
+  - CryptoSwift (0.13.1)
+  - DeviceKit (1.11.0)
+  - DZNEmptyDataSet (1.8.1)
+  - EAIntroView (2.12.0):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - EFQRCode (4.4.2):
+    - swift_qrcodejs (~> 1.0.1)
+  - ESTabBarController-swift (2.6.4)
+  - FSCalendar (2.8.0)
+  - HandyJSON (4.2.1)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (4.10.1)
+  - KMPlaceholderTextView (1.4.0)
+  - MBProgressHUD (1.1.0)
+  - MediaPickerController (2.0.0)
+  - MJRefresh (3.1.15.7)
+  - Moya (10.0.1):
+    - Moya/Core (= 10.0.1)
+  - Moya/Core (10.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - netfox (1.14.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - PermissionScope (1.1.1)
+  - PPBadgeViewSwift (2.2.2)
+  - PPNumberButton (0.8.0)
+  - Result (3.2.4)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SnapKit (4.0.1)
+  - SVProgressHUD (2.2.5)
+  - swift_qrcodejs (1.0.1)
+  - SwiftyAttributes (5.0.0)
+  - SwiftyJSON (4.2.0)
+  - SwiftyUserDefaults (3.0.1)
+  - UMCCommon (1.5.3)
+  - UMCSecurityPlugins (1.0.6)
+  - UMCShare/Core (6.9.5):
+    - UMCCommon
+  - UMCShare/Social/ReducedWeChat (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.5):
+    - UMCCommon
+    - UMCShare/Core
+  - XCGLogger (6.1.0):
+    - XCGLogger/Core (= 6.1.0)
+  - XCGLogger/Core (6.1.0):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - AAInfographics
+  - BMKLocationKit
+  - Bugly
+  - CryptoSwift
+  - DeviceKit
+  - DZNEmptyDataSet
+  - EAIntroView
+  - EFQRCode
+  - ESTabBarController-swift
+  - FSCalendar
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - KMPlaceholderTextView
+  - MBProgressHUD
+  - MediaPickerController
+  - MJRefresh
+  - Moya (= 10.0.1)
+  - netfox
+  - PermissionScope
+  - PPBadgeViewSwift
+  - PPNumberButton
+  - SkyFloatingLabelTextField
+  - SnapKit (~> 4.0.0)
+  - SVProgressHUD
+  - SwiftyAttributes
+  - SwiftyJSON
+  - SwiftyUserDefaults
+  - UMCCommon
+  - UMCSecurityPlugins
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - XCGLogger
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AAInfographics
+    - Alamofire
+    - BMKLocationKit
+    - Bugly
+    - CryptoSwift
+    - DeviceKit
+    - DZNEmptyDataSet
+    - EAIntroView
+    - EARestrictedScrollView
+    - EFQRCode
+    - ESTabBarController-swift
+    - FSCalendar
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KMPlaceholderTextView
+    - MBProgressHUD
+    - MediaPickerController
+    - MJRefresh
+    - Moya
+    - netfox
+    - ObjcExceptionBridging
+    - PermissionScope
+    - PPBadgeViewSwift
+    - PPNumberButton
+    - Result
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - SVProgressHUD
+    - swift_qrcodejs
+    - SwiftyAttributes
+    - SwiftyJSON
+    - SwiftyUserDefaults
+    - UMCCommon
+    - UMCSecurityPlugins
+    - UMCShare
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  AAInfographics: 10f87e06fc007a0adbb05de020e4a2fe3119f8de
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  BMKLocationKit: ca1343eea19b2f2e999d1ad51bd6a1f1220f3456
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  CryptoSwift: ff68c35a53e03177d31aaa2c1e8b3e010aeed6cb
+  DeviceKit: a3a86f8dddbe1317a9a243cdf9646858bf135dce
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  EAIntroView: 249559079ddfdbe80e5bcb755c04c3b964b2ac27
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  EFQRCode: e65a9eb6c7137ed6db4cfce37f0cee47938e44f0
+  ESTabBarController-swift: 58cca4ab7de980657d99a02181c1ff310983e975
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+  HandyJSON: d0c5fc80204f29056d59d3e5c4587fa0b16b60a8
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  KMPlaceholderTextView: 2206c3df39979e9396e2d96fa9f427a8951121b0
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MediaPickerController: 004a199267905d33f8c6c0dbf561d9778515b598
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  Moya: 9e621707ff754eeb51ff3ec51a3d54e517c0733a
+  netfox: 184c9c5dcb6d9ba3347641fe470341bee57f684c
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  PermissionScope: a30c16e015779ba27c97c124e7539e27b5829de2
+  PPBadgeViewSwift: 96a41852df7437e9d948565a1bc894f757c29933
+  PPNumberButton: 4442ff64c21d91733057ca1b3dc05fb4df55f2c0
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  swift_qrcodejs: c181fe5c849d30c699546a23762d7e3dd143ab37
+  SwiftyAttributes: a6e7bbac1e9a9f5c0b42e4055563ca091dda03ad
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  UMCCommon: 016af43c0f769feb1ae1861d65aaf2b23b89c9c7
+  UMCSecurityPlugins: 0831a08f3988f3cea9f1d3a7626cd9bee4fef150
+  UMCShare: 552b29753f1b4da87b51d96545ed19e6263df397
+  XCGLogger: 7f7f43f15dfe3a305fa1342b7dc29af656289abd
+
+PODFILE CHECKSUM: bb2af3b17557bfb46fc89881f9e3bc639f941bb5
+
+COCOAPODS: 1.5.3
